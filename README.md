@@ -8,6 +8,4 @@
 <body>
     <conteiner class="adidas">conteiner1</conteiner>
     <conteiner class="adidas">conteiner2</conteiner>
-    <conteiner class="adidas">conteiner3</conteiner>
-</body>
-</html>
+    <con
