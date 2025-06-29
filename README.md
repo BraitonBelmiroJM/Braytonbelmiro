@@ -1,5 +1,3 @@
-# Braytonbelmiro
-Treinamento de programação 
 <!DOCTYPE html>
 <html lang="pt">
 <head>
